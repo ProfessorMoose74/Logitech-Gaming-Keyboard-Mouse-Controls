@@ -49,8 +49,8 @@ Know a Logitech device that should work but isn't detected? You can help add it!
 
 ```bash
 # Clone your fork
-git clone https://github.com/YOUR_USERNAME/LogiLight.git
-cd LogiLight
+git clone https://github.com/YOUR_USERNAME/Logitech-Gaming-Keyboard-Mouse-Controls.git
+cd Logitech-Gaming-Keyboard-Mouse-Controls
 
 # Install in development mode
 pip3 install -e .

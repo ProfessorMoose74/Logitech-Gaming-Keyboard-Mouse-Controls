@@ -11,15 +11,17 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="logilight",
     version="1.0.0",
-    author="Helyxium Team",
-    author_email="dev@helyxium.com",
+    author="ProfessorMoose74",
+    author_email="noreply@github.com",
     description="Easy RGB lighting control for Logitech gaming peripherals on Linux",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/ProfessorMoose74/LogiLight",
+    url="https://github.com/ProfessorMoose74/Logitech-Gaming-Keyboard-Mouse-Controls",
     project_urls={
-        "Bug Tracker": "https://github.com/ProfessorMoose74/LogiLight/issues",
-        "Documentation": "https://github.com/ProfessorMoose74/LogiLight#readme",
+        "Bug Tracker": "https://github.com/ProfessorMoose74/Logitech-Gaming-Keyboard-Mouse-Controls/issues",
+        "Documentation": "https://github.com/ProfessorMoose74/Logitech-Gaming-Keyboard-Mouse-Controls#readme",
+        "Source Code": "https://github.com/ProfessorMoose74/Logitech-Gaming-Keyboard-Mouse-Controls",
+        "Related Project": "https://github.com/ProfessorMoose74/Helyxium",
     },
     classifiers=[
         "Development Status :: 4 - Beta",

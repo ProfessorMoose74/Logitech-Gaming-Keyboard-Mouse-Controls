@@ -4,9 +4,11 @@
 
 LogiLight is a user-friendly command-line tool that makes it simple to configure and control RGB lighting on Logitech gaming keyboards and mice under Linux. No more complicated commands or manual systemd service creation!
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Python](https://img.shields.io/badge/python-3.8%2B-blue)
-![Platform](https://img.shields.io/badge/platform-linux-lightgrey)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org)
+[![Platform](https://img.shields.io/badge/platform-linux-lightgrey)](https://www.kernel.org)
+[![GitHub stars](https://img.shields.io/github/stars/ProfessorMoose74/Logitech-Gaming-Keyboard-Mouse-Controls?style=social)](https://github.com/ProfessorMoose74/Logitech-Gaming-Keyboard-Mouse-Controls/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/ProfessorMoose74/Logitech-Gaming-Keyboard-Mouse-Controls)](https://github.com/ProfessorMoose74/Logitech-Gaming-Keyboard-Mouse-Controls/issues)
 
 ## ✨ Features
 
@@ -39,8 +41,8 @@ LogiLight is a user-friendly command-line tool that makes it simple to configure
 
 ```bash
 # Clone the repository
-git clone https://github.com/ProfessorMoose74/LogiLight.git
-cd LogiLight
+git clone https://github.com/ProfessorMoose74/Logitech-Gaming-Keyboard-Mouse-Controls.git
+cd Logitech-Gaming-Keyboard-Mouse-Controls
 
 # Run the installer
 sudo ./scripts/install.sh
@@ -196,8 +198,9 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ## 💬 Support
 
-- **Issues**: [GitHub Issues](https://github.com/ProfessorMoose74/LogiLight/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/ProfessorMoose74/LogiLight/discussions)
+- **Issues**: [GitHub Issues](https://github.com/ProfessorMoose74/Logitech-Gaming-Keyboard-Mouse-Controls/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/ProfessorMoose74/Logitech-Gaming-Keyboard-Mouse-Controls/discussions)
+- **Project Origin**: Built as part of the [Helyxium VR Platform](https://github.com/ProfessorMoose74/Helyxium) project
 
 ## 🗺️ Roadmap
 
