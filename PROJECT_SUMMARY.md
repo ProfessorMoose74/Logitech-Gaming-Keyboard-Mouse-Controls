@@ -242,6 +242,7 @@ System Services (persistent lighting)
 
 **Built By:**
 - ProfessorMoose74 (with Claude Code assistance)
+- Created by [Elemental Genius](https://elementalgenius.com)
 - Part of the Helyxium VR Platform project
 
 **Built On:**
@@ -252,7 +253,7 @@ System Services (persistent lighting)
 **Inspired By:**
 - Real-world pain of RGB on Linux
 - Community need for easy peripheral control
-- Love of purple LEDs 💜
+- Elemental Genius brand color (purple #8000FF) 💜
 
 ---
 

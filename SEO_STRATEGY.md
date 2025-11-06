@@ -367,10 +367,11 @@ Create a simple logo:
 
 ### 19. Color Scheme
 
-Consistent branding:
-- Primary: Purple (#8000FF)
+Consistent branding (Elemental Genius brand colors):
+- Primary: Purple (#8000FF) - Official Elemental Genius brand color
 - Secondary: Cyan (#00A8FF)
 - Accent: RGB gradient
+- Note: Purple is not just a color choice - it's the official brand color of Elemental Genius, the company behind Helyxium VR Platform and LogiLight
 
 ### 20. Tagline Variations
 

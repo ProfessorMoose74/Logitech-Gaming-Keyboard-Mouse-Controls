@@ -196,6 +196,12 @@ MIT License - see [LICENSE](LICENSE) for details.
 - **libratbag** - [libratbag/libratbag](https://github.com/libratbag/libratbag)
 - **Piper** - GUI for libratbag
 
+## 💜 About
+
+LogiLight was created by [Elemental Genius](https://elementalgenius.com) as part of the [Helyxium VR Platform](https://github.com/ProfessorMoose74/Helyxium) project.
+
+**Why purple?** The default purple color (`8000ff`) is the official brand color of Elemental Genius - bringing consistent branding across all our development environments and gaming setups.
+
 ## 💬 Support
 
 - **Issues**: [GitHub Issues](https://github.com/ProfessorMoose74/Logitech-Gaming-Keyboard-Mouse-Controls/issues)
