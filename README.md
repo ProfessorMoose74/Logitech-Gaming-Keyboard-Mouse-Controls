@@ -155,7 +155,7 @@ sudo pacman -S g810-led libratbag
 
 **Ubuntu / Debian:**
 ```bash
-sudo apt install g810-led ratbagd libratbag-tools
+sudo apt install g810-led ratbagd
 ```
 
 **Fedora:**

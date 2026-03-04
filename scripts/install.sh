@@ -32,7 +32,7 @@ echo "Installing system dependencies..."
 case "$DISTRO" in
     ubuntu|debian)
         apt update
-        apt install -y g810-led ratbagd libratbag-tools python3 python3-pip
+        apt install -y g810-led ratbagd python3 python3-pip
         ;;
     fedora)
         dnf install -y g810-led ratbagd libratbag-ratbagd python3 python3-pip

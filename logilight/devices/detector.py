@@ -46,7 +46,7 @@ class DeviceDetector:
         try:
             # Run lsusb to get USB devices
             result = subprocess.run(['lsusb'], capture_output=True, text=True)
-            lines = result.stdout.strip().split('\\n')
+            lines = result.stdout.strip().split('\n')
 
             for line in lines:
                 if 'Logitech' not in line:
